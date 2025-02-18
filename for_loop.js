@@ -6,7 +6,7 @@
 /*for(init statement;kondis;post statement){
     //block perulangn
 }*/
-//kode ditidak menggunakan init statement
+//kode ini tidak menggunakan init statement
 let counter = 1;
 for(;counter <= 2;){
     console.log(`perulangan ke ${counter}`);
