@@ -2,8 +2,8 @@
 //while loop, hanya terdapat kondisi perulangan, tanpa ada init statement dan post statement
 
 //Exampel 
-let ulang = 1
+let ulang = 1 //init statemenet
 while (ulang <= 10) {
     console.log(`ini adalah while loop ke${ulang}`)
-    ulang++;
+    ulang++;//post statemen jika tidak menggunakan post statement berarti nilai true dan akan terus berulang
 }

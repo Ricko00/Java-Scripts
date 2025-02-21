@@ -10,6 +10,9 @@
 
 array juga dapat membuat array dalam array karana di aray tida ada batasan dalam pembuatan nya.
 
+Array menggunkan []
+di dalam array di sebut objek dan di dalam objek di sebut properti dengan di tandai {}
+
  */
 
  let nama_hewan = ["sapi", "kambing", "kucing"];
